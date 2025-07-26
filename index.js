@@ -1,0 +1,8 @@
+const age=28;
+if(age>=18)
+    console.log("Eligible for voting");
+else{
+     console.log(" Not Eligible for voting");
+}
+const dob=9/9/9000;
+const name="Dependr";

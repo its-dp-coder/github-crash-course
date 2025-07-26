@@ -1,0 +1,12 @@
+Step 1:open Cmd type git
+Step 2: git --version
+git config --global user.name "Dependra pratap Singh"
+git config --global user.email "dps@gmail.com"
+mkdir
+d: change for directory
+create index files
+type command on terminal git init
+type Get-ChildItem
+ type git add index.js
+ type git diff
+ type git add .
