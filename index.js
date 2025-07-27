@@ -5,4 +5,7 @@ else{
      console.log(" Not Eligible for voting");
 }
 const dob=9/9/9000;
-const name="Dependr";
+const name1="Dependra singh";
+function add() {
+    return a+b;
+}

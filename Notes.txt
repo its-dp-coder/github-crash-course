@@ -10,3 +10,5 @@ type Get-ChildItem
  type git add index.js
  type git diff
  type git add .
+  type git commit -m"Intial code Added";
+  type git log
