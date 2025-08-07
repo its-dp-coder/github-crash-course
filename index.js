@@ -9,16 +9,12 @@ const name1="Dependra singh";
 function add(a,b) {
     return a+b;
 }
-<<<<<<< HEAD
+
 function mul(a,b) {
     return a*b;
 }
-<<<<<<< HEAD
+
 function div(a,b) 
     return a/b;
 }
-=======
 
->>>>>>> parent of 90680ed (new Code Added)
-=======
->>>>>>> parent of 92a70dd (All changes)
