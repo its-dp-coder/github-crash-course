@@ -14,7 +14,7 @@ function mul(a,b) {
     return a*b;
 }
 <<<<<<< HEAD
-function div(a,b) {
+function div(a,b) 
     return a/b;
 }
 =======
