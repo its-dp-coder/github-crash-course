@@ -12,3 +12,4 @@ type Get-ChildItem
  type git add .
   type git commit -m"Intial code Added";
   type git log
+  type git show id//two show changes in code
