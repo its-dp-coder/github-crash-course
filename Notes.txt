@@ -13,3 +13,7 @@ type Get-ChildItem
   type git commit -m"Intial code Added";
   type git log
   type git show id//two show changes in code
+  type git log --oneline"for show id of commits"
+  type git reset --hard<SHA>
+  tyep git revert<SHA>
+  
