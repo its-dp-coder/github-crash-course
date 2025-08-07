@@ -16,4 +16,8 @@ type Get-ChildItem
   type git log --oneline"for show id of commits"
   type git reset --hard<SHA>
   tyep git revert<SHA>
-  
+// github
+Step 1: go to github profile
+Step 2:Create New Repoesotriy
+Step #:copy Repo link 
+Step 4:come to the local Machine files
