@@ -21,3 +21,6 @@ Step 1: go to github profile
 Step 2:Create New Repoesotriy
 Step #:copy Repo link 
 Step 4:come to the local Machine files
+Step 5:type git remote add origin github.com/its-dp-
+coder/github-crash-course.git//repo link
+Step 6:type git remote -v
