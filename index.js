@@ -6,6 +6,6 @@ else{
 }
 const dob=9/9/9000;
 const name1="Dependra singh";
-function add() {
+function add(a,b) {
     return a+b;
 }
