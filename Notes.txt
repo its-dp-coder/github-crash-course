@@ -27,3 +27,7 @@ Step 6:type git remote -v
 //to remove commits or revert
 Srep 1: git reset --hard id
 Step 2:git push -f
+// Branching
+type git branch//to check the branch 
+Step 1: to create branch on the local machine type-git branch "branchname"
+step 2:to switch another branch type- git checkout branchname
