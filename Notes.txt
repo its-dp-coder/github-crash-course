@@ -35,3 +35,6 @@ step 3:Added new commits in the new branches
 // check git status>git add .>git commit -m""
 //for push on the github 
 type:git push --set-upstream origin dp-feat
+//for merging commits
+step 1: type git checkout master
+step 2: git merge origin/branchname
