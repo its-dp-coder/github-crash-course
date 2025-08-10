@@ -33,3 +33,5 @@ Step 1: to create branch on the local machine type-git branch "branchname"
 step 2:to switch another branch type- git checkout branchname
 step 3:Added new commits in the new branches
 // check git status>git add .>git commit -m""
+//for push on the github 
+type:git push --set-upstream origin dp-feat
