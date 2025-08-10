@@ -24,3 +24,6 @@ Step 4:come to the local Machine files
 Step 5:type git remote add origin github.com/its-dp-
 coder/github-crash-course.git//repo link
 Step 6:type git remote -v
+//to remove commits or revert
+Srep 1: git reset --hard id
+Step 2:git push -f
