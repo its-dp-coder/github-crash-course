@@ -38,3 +38,11 @@ type:git push --set-upstream origin dp-feat
 //for merging commits
 step 1: type git checkout master
 step 2: git merge origin/branchname
+
+//Second method to Branching
+step 1:type git checkout -b"feature-b"
+step 2: // check git status>git add .>git commit -m""
+step 3: git push --set-upstream origin feature-b
+step 4 :go to github pull request>new pull request>branch selet and kis branch me merge karna hai select>create a pull request>merge 
+step 5:go to terminal  git checkout master branch>git pull
+
